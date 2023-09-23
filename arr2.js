@@ -1,7 +1,7 @@
-let are =[1,3,7,9,10];
+let are =[5,10,15,20];
 let l= are.length;
 let sum = 0;
-for(i=0;i<l;i++){
+for(let i=0;i<l;i++){
     sum = sum + are[i];
 }
 console.log(sum);

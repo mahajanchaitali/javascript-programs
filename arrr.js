@@ -1,9 +1,4 @@
-let arr = ["har","anc","fko0","wdfg","erer","vbcvb"];
-arr.push("Harish");
-arr.push("Harishqqqqq");
-arr.push("Harish67677");
-
-
-console.log(arr[arr.length-1])
-
-console.log(arr)
+let arr = [12,3,45,23];
+arr.push(20);
+arr.push(25);
+console.log(arr) ;

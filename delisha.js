@@ -6,7 +6,7 @@ var lastname="mahajan";
 
 console.log(name,lastname,"=",sum);
 
-if(sum>10){
+if(sum>20){
     console.log("pass");
 }
    else{

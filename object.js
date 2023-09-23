@@ -20,5 +20,5 @@ const user ={
 };
 let name = user.fullName();
 
-//console.log(user.fullName());
- console.log(name);
+console.log(user.fullName());
+// console.log(name);
