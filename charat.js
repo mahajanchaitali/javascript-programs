@@ -1,4 +1,4 @@
-let text = "HELLO WORLD";
+let on = "HELLO WORLD";
 let char = text.split(' ');
 
 let text = "Please locate where 'locate' occurs!";

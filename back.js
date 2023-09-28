@@ -8,4 +8,4 @@ the lazy dog`;
 
 
 
-console.log(text)
+console.log(text);
